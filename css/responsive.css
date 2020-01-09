@@ -8,7 +8,7 @@ body {
 
 header {
     border-bottom: solid 1.5px lightgrey;
-    overflow: auto;
+    overflow: hidden;
     height: 70px;
     background-color: white;
 }
@@ -69,4 +69,19 @@ hr.headerline {
     width: 291px;
     padding:20px;
     text-align: center;
+}
+
+footer {
+    background-color:#777777;
+    height: 40px;
+    border-top: 8px solid palevioletred;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+.footer-content {
+    color: white;
+    font-size:xx-small;
+    text-align: center;
+    padding:10px;
 }
