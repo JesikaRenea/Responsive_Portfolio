@@ -8,9 +8,9 @@ body {
 
 span {
     background-color: palevioletred;
-    padding: 20px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 25px;
+    padding: 30px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 30px;
     color: white
 }
 
@@ -20,9 +20,21 @@ a {
 }
 
 header {
-    border-bottom: solid 1px gray;
+    border-bottom: solid 1.5px lightgrey;
     overflow: auto;
+    height: 70px;
+}
+
+h2 {
+    color:palevioletred;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-left: 10px;
 }
 
 hr.headerline {border:1px solid lightgrey
 }
+
+.mr-3 {padding: 0px;
+    margin: 0px}
+
+.media-body {padding: 10px;}
