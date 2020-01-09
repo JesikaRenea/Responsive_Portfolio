@@ -6,9 +6,11 @@ body {
     background-image: url(../images/full-bloom.png);
 }
 
-span {
-    background-color: palevioletred;
-    padding: 30px;
+header {
+    border-bottom: solid 1.5px lightgrey;
+    overflow: auto;
+    height: 70px;
+    background-color: white;
 }
 
 h1{
@@ -19,16 +21,14 @@ h1{
     padding: 10px;
 }
 
+span {
+    background-color: palevioletred;
+    padding: 30px;
+}
+
 a {
     font-family: 'Raleway', sans-serif;
     color: palevioletred;
-}
-
-header {
-    border-bottom: solid 1.5px lightgrey;
-    overflow: auto;
-    height: 70px;
-    background-color: white;
 }
 
 h2 {
