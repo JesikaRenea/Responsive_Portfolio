@@ -2,7 +2,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     color: gray;
-    font-size: 12px;    
+    font-size: 14px;    
     background-image: url(../images/full-bloom.png);
 }
 
@@ -29,6 +29,7 @@ span {
 a {
     font-family: 'Raleway', sans-serif;
     color: palevioletred;
+    font-size: 12px;
 }
 
 h2 {
