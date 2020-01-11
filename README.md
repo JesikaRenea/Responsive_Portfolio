@@ -7,6 +7,9 @@ This responsive portfolio was put together in Visual Studio Code, using bootstra
 
 Media cards, forms, rows and columns were used to format this project.
 
-
-
 Project due 1/11/2020
+
+![index.html](/images/index_ss.png)
+![portfolio.html](/images/portfolio_ss.png)
+![contact.html](/images/contact_ss.png)
+

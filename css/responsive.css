@@ -58,22 +58,22 @@ hr.headerline {
 
 .portfolio-container {
     position: relative;
+    margin-bottom: 20px;
 }
   
 .portfolio-image {
-    padding:10px;
     height: auto;
+    width: 100%;
 }
 
   .portfolio-title {
     position: absolute;
-    top: 200px;
+    bottom: 10px;
     left: 0px;
-    margin:10px;
     background-color:palevioletred;
     color: white;
-    width: 291px;
-    padding:20px;
+    width: 100%;
+    padding:10px;
     text-align: center;
 }
 
