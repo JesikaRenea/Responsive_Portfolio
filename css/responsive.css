@@ -51,6 +51,11 @@ hr.headerline {
     padding: 10px;
 }
 
+.btn-primary {
+    background-color: palevioletred;
+    border: solid 1px lightgray;
+}
+
 .portfolio-container {
     position: relative;
 }
