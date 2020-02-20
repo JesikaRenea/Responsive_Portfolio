@@ -59,6 +59,8 @@ hr.headerline {
 .portfolio-container {
     position: relative;
     margin-bottom: 20px;
+    height: 200px;
+    width: 300px;
 }
   
 .portfolio-image {
