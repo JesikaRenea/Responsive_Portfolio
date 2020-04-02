@@ -57,25 +57,27 @@ hr.headerline {
 }
 
 .portfolio-container {
-    position: relative;
+    /* position: relative; */
     margin-bottom: 20px;
-    height: 200px;
-    width: 300px;
+    /* height: 200px; */
+    /* width: 300px; */
+    margin: 25px;
 }
   
 .portfolio-image {
     height: auto;
     width: 100%;
+    border-style: solid;
 }
 
   .portfolio-title {
-    position: absolute;
+    /* position: absolute;
     bottom: 10px;
-    left: 0px;
+    left: 0px; */
     background-color:palevioletred;
     color: white;
     width: 100%;
-    padding:10px;
+    /* padding:10px; */
     text-align: center;
 }
 
